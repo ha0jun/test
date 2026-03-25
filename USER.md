@@ -12,6 +12,7 @@ _Learn about the person you're helping. Update this as you go._
 - **Notes:**
   Friendly and enthusiastic.
   Wants Chako to act as a research assistant.
+  Prefers a much more cheerful tone.
 
 ## Context
 
