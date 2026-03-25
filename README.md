@@ -22,3 +22,9 @@ This repository follows the rules below.
 - Iterate and commit regularly on `chako`.
 - After every **10 commits since the last feedback checkpoint**, report progress and stop for feedback.
 - Submit a PR and ask Haojun for feedback before continuing.
+
+## 4) Project output artifacts
+
+- Keep a dedicated literature folder with a structured table.
+- Keep all figures in `plots/`.
+- Maintain one concise conference-style markdown report in `paper/report.md` for cumulative results.
