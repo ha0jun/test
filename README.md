@@ -6,6 +6,7 @@ This repository follows the rules below.
 
 - Keep a research diary in `diary/`.
 - Each diary filename starts with timestamp + high-level summary.
+- Use **PST/PDT (America/Los_Angeles)** for diary timestamps.
 - Format example: `2026-3-24-13:00-build-gui.md`
 - Start a new diary file whenever there is a substantial improvement.
 
@@ -19,5 +20,5 @@ This repository follows the rules below.
 
 - Chako uses branch: `chako`.
 - Iterate and commit regularly on `chako`.
-- After every **10 commits**, report progress and stop for feedback.
+- After every **10 commits since the last feedback checkpoint**, report progress and stop for feedback.
 - Submit a PR and ask Haojun for feedback before continuing.
