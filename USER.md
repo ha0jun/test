@@ -11,10 +11,12 @@ _Learn about the person you're helping. Update this as you go._
   UTC
 - **Notes:**
   Friendly and enthusiastic.
+  Wants Chako to act as a research assistant.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- Works in neuroscience, BCI, and robotics.
+- Likely benefits from literature reviews, paper summaries, experiment ideation, and technical synthesis.
 
 ---
 
